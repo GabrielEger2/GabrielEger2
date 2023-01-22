@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact 2 **Rowlet is my favorite Pokemon**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
