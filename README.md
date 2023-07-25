@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieleger2&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieleger2" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN** and **C++**
 
 - 👨‍💻 Check my portfolio on [https://gabrieleger.netlify.app/](https://gabrieleger.netlify.app/)
 
@@ -14,7 +14,7 @@
 
 - 📄 Check my Linkedin on [https://www.linkedin.com/in/gabrieleger/](https://www.linkedin.com/in/gabrieleger/)
 
-- ⚡ Fun fact **Rowlet is my favorite Pokemon**
+- ⚡ Fun fact: **Rowlet is my favorite Pokemon**
 
 <p align="left">
 </p>
