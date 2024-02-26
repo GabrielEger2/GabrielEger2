@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieleger2&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieleger2" /> </p>
 
-- 🌱 I’m currently learning **MERN** and **C++**
+- 🌱 I’m currently learning **Java/Kotlin** and **GO**
 
 - 👨‍💻 Check my portfolio on [https://gabrieleger.netlify.app/](https://gabrieleger.netlify.app/)
 
