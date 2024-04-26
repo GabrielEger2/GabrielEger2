@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java/Kotlin** and **GO**
 
-- 👨‍💻 Check my portfolio on [https://gabrieleger.netlify.app/](https://gabrieleger.netlify.app/)
+- 👨‍💻 Check my portfolio on [https://portfolio.gs-eger.com/](https://portfolio.gs-eger.com/)
 
 - 📝 Check my LeetCode at [https://leetcode.com/GabrielEger2/](https://leetcode.com/GabrielEger2/)
 
