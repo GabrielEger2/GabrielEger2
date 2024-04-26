@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Gabriel Eger</h1>
-<h3 align="center">A goal-oriented, determined and passionate Computer Science student</h3>
+<h3 align="center">A goal-oriented, determined and passionate Software Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/uEEjGzDUmjz8p5Iy2Q/giphy.gif?cid=790b7611c9af428ac4053865a078ca580f5910a85c0438db&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieleger2&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieleger2" /> </p>
